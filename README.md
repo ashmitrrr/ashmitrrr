@@ -18,7 +18,6 @@ I'm a Bachelor of Computer Science (Honours) student majoring in AI & Data Analy
 📊 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=ashmitrrr&show_icons=true&theme=radical&rank_icon=github" alt="Ashmit's GitHub Stats" height="180px" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashmitrrr&layout=compact&theme=radical" alt="Top Languages" height="180px" />
 </p>
 
