@@ -1,6 +1,6 @@
 ## hello
 
-I'm a Bachelor of Computer Science (Honours) student majoring in AI & Data Analytics, currently based in Sydney. I love building cool stuff.
+I'm a Bachelor of Computer Science (Honours) student majoring in AI & Data Analytics, currently based in Sydney. I like building cool stuff.
 
 ---
 
