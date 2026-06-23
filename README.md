@@ -1,37 +1,40 @@
-## hello
+# hello
 
-I'm a Bachelor of Computer Science (Honours) student majoring in AI & Data Analytics, currently based in Sydney. I like building cool stuff.
+<div align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3Z5cmZpZzB0bXhzeW53ZndndDE3bXg1Mms4cXN5N3F4cm9nd3Z4byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/du3J3cXyzhj75IOgvA/giphy.gif" width="150" alt="Coding Sticker">
+</div>
+
+### me:
+i'm a compsci student based in sydney. i like to work with ai and ml systems and build cool interesting stuff.  
 
 ---
 
-### 🛠️ Tech Stack & Tools
-
-<!-- Badges from Shields.io -->
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
+### labels
+![Student Life](https://img.shields.io/badge/Status-Struggling_with_Algorithms-red?style=for-the-badge&logo=codeforces)
+![Caffeine Powered](https://img.shields.io/badge/Powered_By-Coffee_%26_Chaos-orange?style=for-the-badge&logo=buymeacoffee)
+![AI Enthusiast](https://img.shields.io/badge/Focus-Neural_Nets_%26_Data-blueviolet?style=for-the-badge)
 
 ---
 
 ### 📊 GitHub Stats
-
-📊 GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashmitrrr&layout=compact&theme=radical" alt="Top Languages" height="180px" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashmitrrr&layout=compact&theme=tokyonight" alt="Top Langs" />
 </p>
 
-<!--
-**ashmitrrr/ashmitrrr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### connect with me 
+
+<p align="left">
+  <a href="https://linkedin.com/in/ashmit-raina2004" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect_With_Me-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:rainaashmit@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Drop_a_Line-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=ashmitrrr&color=8a2be2&style=flat-square" alt="Profile Views">
+</div>
