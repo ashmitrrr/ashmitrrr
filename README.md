@@ -6,7 +6,7 @@
 
 ### me:
 i'm a compsci student based in sydney. i like to work with ai and ml systems and build cool interesting stuff.  
-
+my website: http://ashmitrrr.me/
 ---
 
 ### labels
